@@ -52,6 +52,12 @@ NOT Gate: The NOT gate is a fundamental digital logic gate. It has a single inpu
 
 ## Program:
 ```
+/*
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+Developed by: DEVA DARSHAN A S
+RegisterNumber: 212222110007 
+*/
+
 module exp1(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
@@ -64,11 +70,7 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
-/*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: DEVA DARSHAN A S
-RegisterNumber: 212222110007 
-*/
+
 
 ## RTL DIAGRAM
 ![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/a7dbafb6-7574-4eda-9093-4b72b1d819e4)
