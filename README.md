@@ -76,7 +76,7 @@ endmodule
 ## RTL DIAGRAM
 ![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/a7dbafb6-7574-4eda-9093-4b72b1d819e4)
 
-##TRUTH TABLE
+## TRUTH TABLE
 ![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/e8bb5fa7-32eb-4797-ba48-2c5beca4a518)
 
 
