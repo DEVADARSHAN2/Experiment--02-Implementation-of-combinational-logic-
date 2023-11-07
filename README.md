@@ -2,9 +2,8 @@
 Implementation of combinational logic gates
  
 ## AIM:
-To implement the given logic function verify its operation in Quartus using Verilog programming.
- F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
+To implement the given logic function verify its operation in Quartus using Verilog programming. F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
  
  
@@ -74,14 +73,14 @@ endmodule
 
 
 ## RTL DIAGRAM
-![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/a7dbafb6-7574-4eda-9093-4b72b1d819e4)
+![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/2e388a3e-88a4-4399-982c-a31d766f654f)
 
 ## TRUTH TABLE
 ![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/e8bb5fa7-32eb-4797-ba48-2c5beca4a518)
 
 
-## WAVEFORM DIAGRAM
-![Screenshot 2023-08-26 093953](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/41dd4af0-59bf-4492-8593-5d3a927d0315)
+## Timing Diagram
+![image](https://github.com/DEVADARSHAN2/Experiment--02-Implementation-of-combinational-logic-/assets/119432150/6c56e9d7-d44f-46ab-82d2-672f4e941fdc)
 
 
 ## Result:
